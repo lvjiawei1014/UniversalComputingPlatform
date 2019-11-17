@@ -1,0 +1,5 @@
+E:\Project\GitHub\UniversalComputingPlatform\bin\Debug\UniversalComputingPlatform.dll
+E:\Project\GitHub\UniversalComputingPlatform\bin\Debug\UniversalComputingPlatform.pdb
+E:\Project\GitHub\UniversalComputingPlatform\obj\Debug\UniversalComputingPlatform.csprojAssemblyReference.cache
+E:\Project\GitHub\UniversalComputingPlatform\obj\Debug\UniversalComputingPlatform.dll
+E:\Project\GitHub\UniversalComputingPlatform\obj\Debug\UniversalComputingPlatform.pdb
