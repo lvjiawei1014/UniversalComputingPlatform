@@ -1,0 +1,6 @@
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\bin\Release\UniversalComputingPlatform.dll
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\bin\Release\UniversalComputingPlatform.pdb
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\obj\Release\UniversalComputingPlatform.csprojAssemblyReference.cache
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\obj\Release\UniversalComputingPlatform.csproj.CoreCompileInputs.cache
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\obj\Release\UniversalComputingPlatform.dll
+E:\GitHub\UniversalComputingPlatform\UniversalComputingPlatform\obj\Release\UniversalComputingPlatform.pdb
